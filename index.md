@@ -58,10 +58,11 @@ Examples of projects include:
 Please click the link to see images and screenshots of the projects listed above.  
 [image examples of projects](screenshots.md)
 ---  
+
 <br/>
 
 ## Other projects
-I have worked on other projects, but listing them all would make the page too wordy and not user friendly. Some examples of others include:  
+Some examples of other projects I have worked on include:  
 
 - Used microservices in docker to create an angular site, that was then migrated to AWS using both an s3 bucket and AWS Lambda
     - (insert github link here???)
