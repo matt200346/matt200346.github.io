@@ -4,17 +4,18 @@ Below are the screenshots of projects running or documents related to the projec
 
 ## Hash Table Project
 The screenshot below shows the program loading a file into the hashtable.
-<img src="assets/project images/hashTableProgram/File loaded and stored into hashtable.png">
-The screenshot below shows option 3 where all courses are printed in alphabetical order
-<img src="assets/project images/hashTableProgram/print all courses in alphabetical order.png">
+<img src="assets/project images/hashTableProgram/File loaded and stored into hashtable.png">  
 
-The user is also able to find a specific course by using option 3.
+The screenshot below shows option 3 where all courses are printed in alphabetical order. The user is also able to find a specific course by using option 3.
+<img src="assets/project images/hashTableProgram/print all courses in alphabetical order.png">
 
 ## Fullstack Project using MEAN
 The screenshot below shows a sequence diagram of the project.
-<img src="assets/project images/fullstackProgram/Copy of Sequence Diagram_Travlr Getaways w_o Sequence Labels.png">
+<img src="assets/project images/fullstackProgram/Copy of Sequence Diagram_Travlr Getaways w_o Sequence Labels.png">  
+
 The screenshot below shows the stack working on a local machine
-<img src="assets/project images/fullstackProgram/website running on computer.png">
+<img src="assets/project images/fullstackProgram/website running on computer.png">  
+
 The screenshot below shows the administrator side of the page where trips are able to be edited, added, or deleted.
 Any changes are reflected in the database.
 <img src="assets/project images/fullstackProgram/trips screen showing updated info.png">

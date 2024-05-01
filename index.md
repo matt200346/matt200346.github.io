@@ -31,14 +31,18 @@ Examples of projects include:
 - [AI Maze Navigation](https://github.com/matt200346/cs370)
 
 ##### OpenGL Program that displays 3d objects and allows the user to navigate around the scene. I used C++ and OpenGl to create a 3d scene that has light, shadows, highlights, and textures. I made this program for my CS330 class.
-- [OpenGL Scene](https://github.com/matt200346/cs-330)
+- [OpenGL Scene](https://github.com/matt200346/cs-330)  
 
+---
+Please click the link to see images and screenshots of the projects listed above.  
 [image examples of projects](screenshots.md)
 
-I have worked on other projects, but listing them all would make the page too unweildy and not user friendly. Some examples of others include:
+---  
+### Other projects
+I have worked on other projects, but listing them all would make the page too wordy and not user friendly. Some examples of others include:
 - Used microservices in docker to create an angular site, that was then migrated to AWS using both an s3 bucket and AWS Lambda.
 - An Android app that keeps track of a users weight and sends them a notification when they hit their target weight
-- Managing an running a noSQL database. In this project I used MongoDB
+- Managing and running a noSQL database (MongDB).
 - Creating a program in Java and using unit testing to verify it meets requirements both function and non-functional
 
 ### My thoughts and experience related to my projects
@@ -54,6 +58,4 @@ I enjoy programming but it is not my only interest I am also interested in:
 - 3D Printing (I own two printers that are managed by a raspberry pi over my home network)
 - Hiking
 - Game Development with Godot
-
-TODO -  Keep adding more
 
