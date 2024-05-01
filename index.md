@@ -1,10 +1,10 @@
 
 <img src="assets/headshot.png" width="200"></img>
 
-# Who am I?
+## Who am I?
 My name is Matthew Eaton. I love to program and am passionate about learning how to improve my skills.
 
-### Education
+## Education
 I have attained the following degrees:
 
 - **Bachelor of Science in Computer Science**
@@ -16,21 +16,21 @@ I have attained the following degrees:
     - Minor in Techinal Writing
     - Computer Science classes taken as electives
 
-# Projects
+## Projects
 I have worked on various programming projects during my study and continue to program personal projects on my local machine.
 
 Examples of projects include:
 
-#### Hashtable Program that would store and allow a user to lookup a course by ID. I made this program for my CS300 class Data Structures.
+##### Hashtable Program that would store and allow a user to lookup a course by ID. I made this program for my CS300 class Data Structures.
 - [Hash Table Program](https://github.com/matt200346/cs300)
 
-#### A fullstack program that uses the MEAN stack to display a site to the end user. The site displays information about travel packages and allows an admin to login and edit the front facing site. I made this for my CS465 fullstack development class.
+##### A fullstack program that uses the MEAN stack to display a site to the end user. The site displays information about travel packages and allows an admin to login and edit the front facing site. I made this for my CS465 fullstack development class.
 - [Fullstack Project Utilizing MEAN](https://github.com/matt200346/cs465-fullstack)
 
-#### AI program that uses deep Q-learning to navigate a maze. I used a Jupyter Notebook to test and run a program that used KERAS and deep Q-learning to navigate a maze. This was made for my CS370 class future developments in computer science.
+##### AI program that uses deep Q-learning to navigate a maze. I used a Jupyter Notebook to test and run a program that used KERAS and deep Q-learning to navigate a maze. This was made for my CS370 class future developments in computer science.
 - [AI Maze Navigation](https://github.com/matt200346/cs370)
 
-#### OpenGL Program that displays 3d objects and allows the user to navigate around the scene. I used C++ and OpenGl to create a 3d scene that has light, shadows, highlights, and textures. I made this program for my CS330 class.
+##### OpenGL Program that displays 3d objects and allows the user to navigate around the scene. I used C++ and OpenGl to create a 3d scene that has light, shadows, highlights, and textures. I made this program for my CS330 class.
 - [OpenGL Scene](https://github.com/matt200346/cs-330)
 
 I have worked on other projects, but listing them all would make the page too unweildy and not user friendly. Some examples of others include:
@@ -43,7 +43,7 @@ I have worked on other projects, but listing them all would make the page too un
 TODO - Finish filling this in
 
 
-# Personal Interests
+## Personal Interests
 I enjoy programming but it is not my only interest I am also interested in:
 - Astrophotography
 - Drawing
