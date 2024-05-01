@@ -1,3 +1,4 @@
 title: Matthew Eaton
+description: Portfolio site providing info about myself and examples of my code
 logo: /assets/headshot.png
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
