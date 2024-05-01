@@ -51,7 +51,7 @@ Examples of projects include:
 ##### AI program that uses deep Q-learning to navigate a maze. I used a Jupyter Notebook to test and run a program that used KERAS and deep Q-learning to navigate a maze. This was made for my CS370 class future developments in computer science.
 - [AI Maze Navigation](https://github.com/matt200346/cs370)
 
-##### OpenGL Program that displays 3d objects and allows the user to navigate around the scene. I used C++ and OpenGl to create a 3D scene that has light, shadows, highlights, and textures. I made this program for my CS330 class.
+##### OpenGL Program that displays 3d objects and allows the user to navigate around the scene. I used C++ and OpenGL to create a 3D scene that has light, shadows, highlights, and textures. I made this program for my CS330 class.
 - [OpenGL Scene](https://github.com/matt200346/cs-330)  
 
 
@@ -75,7 +75,7 @@ Some examples of other projects I have worked on include:
     - I have created CRUD classes to act as an "in-betweens"
 
 ## My thoughts and experience related to my projects
-My favorite project was the OpenGl scene. I learned a lot during the project and it was difficult and I had to lookup many things during it. The difficulty and process of looking up documentation and possible ways for me to solve a problem added to my enjoyment at the end of it. Even though there were times where I was frustrated or confused I continued to press on and look for solutions, breaking down my problem in smaller ones.
+My favorite project was the OpenGL scene. I learned a lot during the project and it was difficult and I had to lookup many things during it. The difficulty and process of looking up documentation and possible ways for me to solve a problem added to my enjoyment at the end of it. Even though there were times where I was frustrated or confused I continued to press on and look for solutions, breaking down my problem in smaller ones.
 
 ## Current Projects
 I enjoyed all of my projects and continue to work on improving. I am currently working on:

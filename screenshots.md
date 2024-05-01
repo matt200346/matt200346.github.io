@@ -7,10 +7,9 @@ Below are the screenshots of projects running or documents related to the projec
 [AI project](#ai-project-using-deep-q-learning)  
 [OpenGL project](#opengl-project)  
  
-|**Other projects** |  
+**Other projects**  
 
-| [AWS Project](#aws-project) |  
-| [another example]() |  
+[AWS Project](#aws-project)
 
 ## Hash Table Project
 The screenshot below shows the program loading a file into the hashtable.
