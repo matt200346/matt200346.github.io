@@ -21,11 +21,11 @@ My name is Matthew Eaton. I love to program and am passionate about learning how
 I have attained the following degrees:
 
 - **Bachelor of Science in Computer Science**
-    - Obtained at SNHU with a GPA of 4.0
-    - Graduated Summa Cum Laude
+    - Obtained at SNHU
+    - Graduated Summa Cum Laude with a 4.0 GPA
     - Rediscovered my love of computers and programming
 - **Bachelor of Arts in English**
-    - Obtained at UNCC with a GPA of 3.0
+    - Obtained at UNCC
     - Minor in Techinal Writing
     - Computer Science classes taken as electives
 
@@ -34,6 +34,7 @@ I have used and am familiar with:
 - C++
 - Python
 - Java
+- Dart
 
 My favorite language is C++. I have the most experience with it and I feel more comfortable with it. C++ is a very mature language and has many modules and ways to expand what it can do. The native library includes more than C, which makes it easier to setup and use various data structures.
 
@@ -80,9 +81,9 @@ My favorite project was the OpenGL scene. I learned a lot during the project and
 ## Current Projects
 I enjoyed all of my projects and continue to work on improving. I am currently working on:
 - Project Euler problems for fun
-- A personal project with a friend, which uses Flutter to design and implement an Android app
-- Learning Godot
-- Reading various programming books to further improve.
+- An Android app with a friend, which uses Flutter and Dart
+- Learning Godot (an opensource and free game engine)
+- Reading various programming books to further improve
 
 
 ## Personal Interests
