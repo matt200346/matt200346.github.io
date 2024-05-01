@@ -1,5 +1,5 @@
 
-<img src="assets/headshot.png" width="200"></img>
+<img src="assets/headshot.png" width="200">
 
 ## Who am I?
 My name is Matthew Eaton. I love to program and am passionate about learning how to improve my skills.
@@ -33,6 +33,8 @@ Examples of projects include:
 ##### OpenGL Program that displays 3d objects and allows the user to navigate around the scene. I used C++ and OpenGl to create a 3d scene that has light, shadows, highlights, and textures. I made this program for my CS330 class.
 - [OpenGL Scene](https://github.com/matt200346/cs-330)
 
+[image examples of projects](screenshots.md)
+
 I have worked on other projects, but listing them all would make the page too unweildy and not user friendly. Some examples of others include:
 - Used microservices in docker to create an angular site, that was then migrated to AWS using both an s3 bucket and AWS Lambda.
 - An Android app that keeps track of a users weight and sends them a notification when they hit their target weight
@@ -40,7 +42,7 @@ I have worked on other projects, but listing them all would make the page too un
 - Creating a program in Java and using unit testing to verify it meets requirements both function and non-functional
 
 ### My thoughts and experience related to my projects
-TODO - Finish filling this in
+Throughout my journey I have learned a lot and have grown to really enjoy programming and finding new ways to solve problems. My favorite project was the OpenGl scene. I learned a lot during the project and it was difficult and I had to lookup many things during it. The difficulty and process of looking up documentation and possible ways for me to solve a problem added to my enjoyment at the end of it. Even though there were times where I was frustrated or confused I continued to press on and look for solutions, breaking down my problem in smaller ones. I enjoyed all of my projects and continue to work on improving my programming. I am currently working on project Euler problems for fun, a personal project with a friend on an android app, learning Godot, and reading various programming books to further improve.
 
 
 ## Personal Interests
