@@ -15,7 +15,7 @@
 <br/>
 
 ## Who am I?
-My name is Matthew Eaton. I love to program and am passionate about learning how to improve my skills. Throughout my journey I have learned a lot and have grown to really enjoy programming and finding new ways to solve problems. I love trying to think of new or interesting ways to solve problems.
+My name is Matthew Eaton. I love to program and am passionate about learning how to improve my skills. Throughout my journey I have learned a lot and have grown to really enjoy programming and finding new ways to solve problems. I love trying to think of new or interesting ways to solve problems. My github is at [https://github.com/matt200346](https://github.com/matt200346)
 
 ## Education
 I have attained the following degrees:
